@@ -1,5 +1,4 @@
 {
-  "start": "PYTHONUNBUFFERED=true python3 server.py",
   "watch": {
     "ignore": [
       "\\.pyc$"
