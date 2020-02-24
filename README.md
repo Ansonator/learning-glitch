@@ -21,6 +21,7 @@ A starter project for python web development in [glitch](https://glitch.com/).
 * Generate new lockfile: `pipenv lock`
 * Update requirements.txt for glitch, since it only has pip: 
   * `python -m pip freeze > requirements.txt`
+* Exit: `exit`
 
 ## Issues
 

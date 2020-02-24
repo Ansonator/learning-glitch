@@ -1,4 +1,6 @@
 {
+  "install": "python3 -m pip install --user -r requirements.txt",
+  "start": "PYTHONUNBUFFERED=true python3 server.py",
   "watch": {
     "ignore": [
       "\\.pyc$"
